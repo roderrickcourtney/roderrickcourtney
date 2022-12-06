@@ -1,4 +1,4 @@
-<h1>Hello, I'm Derrick, an <a href="www.linkedin.com/in/roderrick-courtney">IT Technician</a>☺</h1>
+<h1>Hello, I'm Derrick, an <a href="https://linkedin.com/in/roderrickcourtney">IT Technician</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
