@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Microsoft Azure Storage Account](https://github.com/roderrickcourtney/Azure-Storage-Account-Setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/roderrickcourtney/Azure-Config-AD)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/roderrickcourtney/Azure-Network-Protocol)
+  - [Azure File Permissions](https://github.com/roderrickcourtney/Azure-File-Permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/roderrickcourtney/OsTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/roderrickcourtney/Post-Install-Configuration)
