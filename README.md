@@ -1,4 +1,9 @@
-<h1>Hello, I'm Derrick, a <a href="https://linkedin.com/in/roderrickcourtney">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Derrick, a <a href="https://linkedin.com/in/roderrickcourtney">Security Operations Center Analyst</a></h1>
+
+<h2>🛡️ Cybersecurity Blue Team Projects:</h2>
+
+- <b>Buidling a SOC and Honeynet within MS Azure (Live Traffic)</b>
+  - 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
