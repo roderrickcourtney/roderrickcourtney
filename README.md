@@ -2,8 +2,8 @@
 
 <h2>🛡️ Cybersecurity Blue Team Projects:</h2>
 
-- <b>Buidling a SOC and Honeynet within MS Azure (Live Traffic)</b>
-  - 
+- <b>Microsoft Azure</b>
+  - [Buidling a SOC and Honeynet within MS Azure (Live Traffic)](https://github.com/roderrickcourtney/)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
